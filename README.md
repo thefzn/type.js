@@ -1,4 +1,4 @@
-# 已迁移到 [https://github.com/jsmini/type](https://github.com/jsmini/type)
+# 已迁移到 https://github.com/jsmini/type
 # [type.js](https://github.com/yanhaijing/type.js) [![](https://img.shields.io/badge/Powered%20by-jslib%20base-brightgreen.svg)](https://github.com/yanhaijing/jslib-base) [![npm](https://img.shields.io/badge/npm-0.3.0-orange.svg)](https://www.npmjs.com/package/@yanhaijing/type_js) [![Build Status](https://travis-ci.org/yanhaijing/type.js.svg?branch=master)](https://travis-ci.org/yanhaijing/type.js) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yanhaijing/type.js/blob/master/LICENSE)
 类型检测库，弥补typeof的问题，原生兼容IE6
 
